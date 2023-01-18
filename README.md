@@ -11,4 +11,4 @@
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Criação de código sobre conta bancária em linguagem de programação Java, utilizando sintaxe básica.
